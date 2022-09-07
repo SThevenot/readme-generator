@@ -40,17 +40,25 @@ inquirer
       name: "usage",
     },
     {
-        type: "checkbox",
-        message: questions[8],
-        choices: ["MIT", "Apache", "ISC", "GNU GPLv3"],
-        name: "license",
-      },
-      {
-        type: "checkbox",
-        message: questions[9],
-        choices: ["HTML", "CSS", "JavaScript", "Node.js", "APIs", "React", "Express.js"],
-        name: "technology",
-      },
+      type: "checkbox",
+      message: questions[8],
+      choices: ["MIT", "Apache", "ISC", "GNU GPLv3"],
+      name: "license",
+    },
+    {
+      type: "checkbox",
+      message: questions[9],
+      choices: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Node.js",
+        "APIs",
+        "React",
+        "Express.js",
+      ],
+      name: "technology",
+    },
     {
       type: "input",
       message: questions[4],
@@ -83,33 +91,34 @@ inquirer
 // TODO: Create a function to initialize app
 function init(data) {
   console.log(data);
-  if (data.title == '') {
+  if (data.title == "") {
     data.title = "N/A";
   }
-  if (data.description == '') {
+  if (data.description == "") {
     data.description = "N/A";
   }
-  if (data.install == '') {
+  if (data.install == "") {
     data.install = "N/A";
   }
-  if (data.usage == '') {
+  if (data.usage == "") {
     data.usage = "N/A";
   }
-  if (data.license == ['']) {
+  if (data.license == [""]) {
     data.license = "N/A";
   }
-  if (data.contribution == '') {
+  if (data.contribution == "") {
     data.contribution = "N/A";
   }
-  if (data.test == '') {
+  if (data.test == "") {
     data.test = "N/A";
   }
-  if (data.github == '') {
+  if (data.github == "") {
     data.github = "N/A";
   }
-  if (data.email == '') {
+  if (data.email == "") {
     data.email = "N/A";
   }
+  console.log(data.license);
   return `# ${data.title} 
   ![${data.license}](https://img.shields.io/badge/license-${data.license}-green)
 
@@ -173,14 +182,14 @@ function init(data) {
   #### ${data.email}`;
 }
 
-  // } for (var i = 1; i < data.technology.length; i++) {
-  //   shields 
-  //   console.log(data.technology.length);
-  //   console.log(shields);
-  // }
-  // var shields = "https://img.shields.io/badge/";
-  // var colorArr = ["yellow", "orange","red", "blue", "success", "green", "blueviolet", "ff69b4", "inactive"];
-  // var color = colorArr[Math.floor(Math.random()* colorArr.length)];
-  // data.technology += "-";
-  // console.log(color);
-  //[${data.technology}](${shields}${data.technology}${color})
+// } for (var i = 1; i < data.technology.length; i++) {
+//   shields
+//   console.log(data.technology.length);
+//   console.log(shields);
+// }
+// var shields = "https://img.shields.io/badge/";
+// var colorArr = ["yellow", "orange","red", "blue", "success", "green", "blueviolet", "ff69b4", "inactive"];
+// var color = colorArr[Math.floor(Math.random()* colorArr.length)];
+// data.technology += "-";
+// console.log(color);
+//[${data.technology}](${shields}${data.technology}${color})

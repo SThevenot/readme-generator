@@ -1,7 +1,7 @@
-# mama's cookbook 
-  ![MIT](https://img.shields.io/badge/license-MIT-green)
+# Sarah's Readme Generator 
+  ![](https://img.shields.io/badge/license-MIT-green)
 
-  #### it's full of goodies
+  #### The goal of this project was to create a function readme.md generator that would prompt the user with questions on their prokect, and then create a dynamic readme file that used those answers. Using inquirer, the user will be prompted with various kinds of questions and the responses will be plugged into a barebones readme structure.
   
   ## Table of Contents
   ----
@@ -15,37 +15,37 @@
   
   ## Installation Instructions
   
-  #### download it
+  #### Clone the repo on Github using either HTTPS or SSH keys.
   
   ----
   
   ## Usage Info
   
-  #### N/A
+  #### This is for generating readmes for projects.
   
   -----
   
   ## License Info
 
-  #### This project is under the MIT license. 
+  #### This project is under the MIT license.
 
   -----
   
   ## Technology Used
 
-  #### This project used HTML,CSS,JavaScript. 
+  #### This project used HTML, CSS, JavaScript, Node.js. 
 
   -----
 
   ## Contribution Guidelines
   
-  #### you must be this tall to ride the ride
+  #### N/A
   
   -----
   
   ## Test Instructions
   
-  #### at your own discretion
+  #### There are no tests for this application.
   
   -----
   
