@@ -1,7 +1,7 @@
-# readme generator 
-  ![MIT,Apache,ISC,GNU GPLv3](https://img.shields.io/badge/license-MIT,Apache,ISC,GNU GPLv3-green)
+# Sarah's Readme Generator 
+  ![](https://img.shields.io/badge/license-MIT-green)
 
-  #### it's loads of fun
+  #### The goal of this project was to create a function readme.md generator that would prompt the user with questions on their prokect, and then create a dynamic readme file that used those answers. Using inquirer, the user will be prompted with various kinds of questions and the responses will be plugged into a barebones readme structure.
   
   ## Table of Contents
   ----
@@ -15,37 +15,37 @@
   
   ## Installation Instructions
   
-  #### download it
+  #### Clone the repo on Github using either HTTPS or SSH keys.
   
   ----
   
   ## Usage Info
   
-  #### use with discretion
+  #### This is for generating readmes for projects.
   
   -----
   
   ## License Info
 
-  #### This project is under the MIT,Apache,ISC,GNU GPLv3 license. 
+  #### This project is under the MIT license.
 
   -----
   
   ## Technology Used
 
-  #### This project used HTML,CSS,JavaScript,Node.js,APIs,React,Express.js. 
+  #### This project used HTML, CSS, JavaScript, Node.js. 
 
   -----
 
   ## Contribution Guidelines
   
-  #### contibut
+  #### N/A
   
   -----
   
   ## Test Instructions
   
-  #### N/A
+  #### There are no tests for this application.
   
   -----
   
