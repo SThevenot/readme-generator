@@ -1,55 +1,57 @@
-# Sarah's Readme Generator 
-  ![](https://img.shields.io/badge/license-MIT-green)
+# HTML/CSS Refactoring 
+  ![](https://img.shields.io/badge/license--green)
 
-  #### The goal of this project was to create a function readme.md generator that would prompt the user with questions on their prokect, and then create a dynamic readme file that used those answers. Using inquirer, the user will be prompted with various kinds of questions and the responses will be plugged into a barebones readme structure.
+  ## Description ⭐
+
+  #### This was an assignment to refactor the code going into the Horiseon website. The overall purpose was to help increase the quality of accessability for the website and clean up the code a bit.
   
-  ## Table of Contents
+  ## Table of Contents 📖
   ----
   - [Installation Instructions](#installation-instructions)
-  - [Usage Info](#usage-info)
-  - [License Info](#license-info)
-  - [Technology Used](#technology-used)
-  - [Contribution Guidelines](#contribution-guidelines)
-  - [Test Instructions](#test-instructions)
-  - [Questions?](#questions)
+  - [Usage Info](#usage-info) 💡
+  - [License Info](#license-info) ©️
+  - [Technology Used](#technology-used) 🔧
+  - [Contribution Guidelines](#contribution-guidelines) 👩🏻‍💻
+  - [Test Instructions](#test-instructions) 📝
+  - [Questions?](#questions) ❓
   
   ## Installation Instructions
   
-  #### Clone the repo on Github using either HTTPS or SSH keys.
+  #### Run "git clone" to download the code to your computer.
   
   ----
   
-  ## Usage Info
-  
-  #### This is for generating readmes for projects.
-  
-  -----
-  
-  ## License Info
-
-  #### This project is under the MIT license.
-
-  -----
-  
-  ## Technology Used
-
-  #### This project used HTML, CSS, JavaScript, Node.js. 
-
-  -----
-
-  ## Contribution Guidelines
+  ## Usage Info 💡
   
   #### N/A
   
   -----
   
-  ## Test Instructions
+  ## License Info ©️
+
+  #### This project is under the  license. 
+
+  -----
   
-  #### There are no tests for this application.
+  ## Technology Used 🔧
+
+  #### This project used HTML,CSS. 
+
+  -----
+
+  ## Contribution Guidelines 👩🏻‍💻
+  
+  #### Contact me
   
   -----
   
-  ## Questions?
+  ## Test Instructions 📝
+  
+  #### N/A
+  
+  -----
+  
+  ## Questions? ❓
   
   #### Reach out to my Github! 
 

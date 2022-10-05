@@ -122,17 +122,20 @@ function init(data) {
   return `# ${data.title} 
   ![${data.license}](https://img.shields.io/badge/license-${data.license}-green)
 
+  ## Description⭐
+
   #### ${data.description}
   
-  ## Table of Contents
+  ## Table of Contents 📖
   ----
+  - [Description](#description⭐)
   - [Installation Instructions](#installation-instructions)
-  - [Usage Info](#usage-info)
-  - [License Info](#license-info)
-  - [Technology Used](#technology-used)
-  - [Contribution Guidelines](#contribution-guidelines)
-  - [Test Instructions](#test-instructions)
-  - [Questions?](#questions)
+  - [Usage Info](#usage-info💡) 
+  - [License Info](#license-info) 
+  - [Technology Used](#technology-used🔧) 
+  - [Contribution Guidelines](#contribution-guidelines👩🏻‍💻) 
+  - [Test Instructions](#test-instructions📝) 
+  - [Questions?](#questions❓) 
   
   ## Installation Instructions
   
@@ -140,7 +143,7 @@ function init(data) {
   
   ----
   
-  ## Usage Info
+  ## Usage Info💡
   
   #### ${data.usage}
   
@@ -152,25 +155,25 @@ function init(data) {
 
   -----
   
-  ## Technology Used
+  ## Technology Used🔧
 
   #### This project used ${data.technology}. 
 
   -----
 
-  ## Contribution Guidelines
+  ## Contribution Guidelines👩🏻‍💻
   
   #### ${data.contribution}
   
   -----
   
-  ## Test Instructions
+  ## Test Instructions📝
   
   #### ${data.test}
   
   -----
   
-  ## Questions?
+  ## Questions?❓
   
   #### Reach out to my Github! 
 
@@ -181,15 +184,3 @@ function init(data) {
 
   #### ${data.email}`;
 }
-
-// } for (var i = 1; i < data.technology.length; i++) {
-//   shields
-//   console.log(data.technology.length);
-//   console.log(shields);
-// }
-// var shields = "https://img.shields.io/badge/";
-// var colorArr = ["yellow", "orange","red", "blue", "success", "green", "blueviolet", "ff69b4", "inactive"];
-// var color = colorArr[Math.floor(Math.random()* colorArr.length)];
-// data.technology += "-";
-// console.log(color);
-//[${data.technology}](${shields}${data.technology}${color})
