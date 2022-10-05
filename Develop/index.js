@@ -119,8 +119,10 @@ function init(data) {
     data.email = "N/A";
   }
   console.log(data.license);
-  return `# ${data.title} 
-  ![${data.license}](https://img.shields.io/badge/license-${data.license}-green)
+  return `<h1 align="center"> ${data.title} </h1>
+  <p align="center">
+  <img src="https://img.shields.io/badge/license-${data.license}-green"/>
+  </p>
 
   ## Description⭐
 

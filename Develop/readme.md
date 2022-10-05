@@ -1,57 +1,58 @@
-# HTML/CSS Refactoring 
+# Portfolio 
   ![](https://img.shields.io/badge/license--green)
 
-  ## Description ⭐
+  ## Description⭐
 
-  #### This was an assignment to refactor the code going into the Horiseon website. The overall purpose was to help increase the quality of accessability for the website and clean up the code a bit.
+  #### A personal portfolio to show future employers that showcases info about me, projects I've worked on, and some social links to my profiles.
   
   ## Table of Contents 📖
   ----
+  - [Description](#description⭐)
   - [Installation Instructions](#installation-instructions)
-  - [Usage Info](#usage-info) 💡
-  - [License Info](#license-info) ©️
-  - [Technology Used](#technology-used) 🔧
-  - [Contribution Guidelines](#contribution-guidelines) 👩🏻‍💻
-  - [Test Instructions](#test-instructions) 📝
-  - [Questions?](#questions) ❓
+  - [Usage Info](#usage-info💡) 
+  - [License Info](#license-info) 
+  - [Technology Used](#technology-used🔧) 
+  - [Contribution Guidelines](#contribution-guidelines👩🏻‍💻) 
+  - [Test Instructions](#test-instructions📝) 
+  - [Questions?](#questions❓) 
   
   ## Installation Instructions
   
-  #### Run "git clone" to download the code to your computer.
+  #### Run "git clone" to clone the repo into your device.
   
   ----
   
-  ## Usage Info 💡
+  ## Usage Info💡
   
   #### N/A
   
   -----
   
-  ## License Info ©️
+  ## License Info
 
   #### This project is under the  license. 
 
   -----
   
-  ## Technology Used 🔧
+  ## Technology Used🔧
 
-  #### This project used HTML,CSS. 
+  #### This project used HTML,CSS,JavaScript. 
 
   -----
 
-  ## Contribution Guidelines 👩🏻‍💻
+  ## Contribution Guidelines👩🏻‍💻
   
-  #### Contact me
+  #### Contact me for more info on contributing!
   
   -----
   
-  ## Test Instructions 📝
+  ## Test Instructions📝
   
   #### N/A
   
   -----
   
-  ## Questions? ❓
+  ## Questions?❓
   
   #### Reach out to my Github! 
 
